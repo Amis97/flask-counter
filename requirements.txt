@@ -1,2 +1,3 @@
 flask
-red
+redis
+flask_session
